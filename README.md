@@ -11,8 +11,6 @@ In this repository we provide code of the paper:
 <img src="teaser.jpg">
 </p>
 
-Our code is implemented by some modifications based on the repository [IVGD](https://github.com/xianggebenben/IVGD). Sincere gratitude to IVGD.
-
 ## Requirement
 ```
 scipy==1.5.0
@@ -54,3 +52,5 @@ Cite our paper if you find it interesting!
   organization={IEEE}
 }
 ```
+
+This code is implemented based on [IVGD](https://github.com/xianggebenben/IVGD).
